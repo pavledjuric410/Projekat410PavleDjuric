@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Projekat410PavleDjuric
 {
-    public partial class Form1 : Form
+    public partial class Login : Form
     {
-        public Form1()
+        public Login()
         {
             InitializeComponent();
         }
