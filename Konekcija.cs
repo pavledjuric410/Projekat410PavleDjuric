@@ -7,7 +7,7 @@ using System.Data.SqlClient;
 using System.Configuration;
 
 
-namespace Projekat_2026_Nebojsa_Matic
+namespace Projekat_2026
 {
     internal class Konekcija
     {
