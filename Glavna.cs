@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Projekat_2026_Nebojsa_Matic
+namespace Projekat_2026
 {
     public partial class Glavna : Form
     {
